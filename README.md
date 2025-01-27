@@ -3,7 +3,6 @@
 **Short Description:**  
 Provide a concise description of the project. Explain its purpose, key features, and what it aims to achieve.
 
----
 
 ## Setup Instructions
 
